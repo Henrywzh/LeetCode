@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2cdc3c7-8d85-4db3-8406-2e335a956a88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NeetCode150/SlidingWindow/ContainsDuplicateII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeetCode150/SlidingWindow/LongestSubstringWithoutRepeatingCharacters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeetCode150/SlidingWindow/LongestRepeatingCharacterReplacement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeetCode150/SlidingWindow/MinimumWindowSubstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeetCode150/SlidingWindow/PermutationInString.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749845318357</updated>
-      <workItem from="1749845319399" duration="17087000" />
+      <workItem from="1749845319399" duration="26063000" />
     </task>
     <servers />
   </component>
