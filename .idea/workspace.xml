@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2cdc3c7-8d85-4db3-8406-2e335a956a88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NeetCode150/Backtracking/CombinationSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeetCode150/Backtracking/CombinationSumII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeetCode150/Backtracking/Permutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeetCode150/Backtracking/Subsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeetCode150/Backtracking/SubsetsII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeetCode150/Backtracking/WordSearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f2cdc3c7-8d85-4db3-8406-2e335a956a88" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,12 +26,12 @@
     &quot;assignee&quot;: &quot;Henrywzh&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:Henrywzh/LeetCode.git&quot;,
-    &quot;accountId&quot;: &quot;deff489b-b20c-48fe-9370-8cbe0a9b240f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Henrywzh/LeetCode.git",
+    "accountId": "7ba9fb4a-7060-489f-8b8b-d95c6f53b413"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -61,6 +53,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NeetCode150" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="WordSearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
@@ -113,6 +110,7 @@
       <workItem from="1752734192856" duration="20563000" />
       <workItem from="1753339581744" duration="15000" />
       <workItem from="1753415016778" duration="602000" />
+      <workItem from="1754030224822" duration="3366000" />
     </task>
     <servers />
   </component>
