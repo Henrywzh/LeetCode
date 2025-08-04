@@ -26,12 +26,12 @@
     &quot;assignee&quot;: &quot;Henrywzh&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:Henrywzh/LeetCode.git",
-    "accountId": "7ba9fb4a-7060-489f-8b8b-d95c6f53b413"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Henrywzh/LeetCode.git&quot;,
+    &quot;accountId&quot;: &quot;7ba9fb4a-7060-489f-8b8b-d95c6f53b413&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -111,6 +111,7 @@
       <workItem from="1753339581744" duration="15000" />
       <workItem from="1753415016778" duration="602000" />
       <workItem from="1754030224822" duration="3366000" />
+      <workItem from="1754034429984" duration="10620000" />
     </task>
     <servers />
   </component>
