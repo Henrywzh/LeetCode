@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2cdc3c7-8d85-4db3-8406-2e335a956a88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Medium_39.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="SQL File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -115,6 +117,9 @@
       <workItem from="1754030224822" duration="3366000" />
       <workItem from="1754034429984" duration="10620000" />
       <workItem from="1754269590368" duration="9434000" />
+      <workItem from="1755160270507" duration="8956000" />
+      <workItem from="1755668374458" duration="1868000" />
+      <workItem from="1756360142450" duration="3805000" />
     </task>
     <servers />
   </component>
